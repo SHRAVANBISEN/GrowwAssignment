@@ -4,7 +4,7 @@
 **Assignment:** Android Stocks/ETFs Broking Platform  
 **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit, Hilt, Alpha Vantage API
 
-
+Video Demo: https://drive.google.com/file/d/16kPkJkCwPN7gOoNe7tClQj6mKRVGk-BI/view?usp=sharing
 
 ## 📱 Screenshots
 
