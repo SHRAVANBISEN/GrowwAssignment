@@ -4,23 +4,19 @@
 **Assignment:** Android Stocks/ETFs Broking Platform  
 **Tech Stack:** Kotlin, Jetpack Compose, MVVM, Room, Retrofit, Hilt, Alpha Vantage API
 
----
 
-## 🔗 Submission Links
-
-* **GitHub Repository:** [Your Repository Link Here]
-* **LinkedIn Profile:** [Your LinkedIn Profile Link Here]
-
----
 
 ## 📱 Screenshots
 
 ### Main Features Overview
 <div align="center">
-  <img src="screenshots/ss1.png" alt="Explore Screen" width="200"/>
-  <img src="screenshots/product_screen.png" alt="Product Screen" width="200"/>
-  <img src="screenshots/watchlist_screen.png" alt="Watchlist Screen" width="200"/>
-  <img src="screenshots/view_all_screen.png" alt="View All Screen" width="200"/>
+  <img src="screenshots/ss1.jpg" alt="Explore Screen" width="200"/>
+  <img src="screenshots/ss2.jpg" alt="Product Screen" width="200"/>
+  <img src="screenshots/ss3.jpg" alt="Watchlist Screen" width="200"/>
+  <img src="screenshots/ss6.jpg" alt="View All Screen" width="200"/>
+   <img src="screenshots/ss33.jpg" alt="View All Screen" width="200"/>
+     <img src="screenshots/ss44.jpg" alt="View All Screen" width="200"/>
+
 </div>
 
 ---
@@ -408,9 +404,8 @@ Thank you for reviewing my solution. 🙏
 ## 📞 Contact
 
 **Shravan Bisen**
-- LinkedIn: [Your LinkedIn Profile]
-- Email: [Your Email]
-- GitHub: [Your GitHub Profile]
+- LinkedIn: www.linkedin.com/in/shravanbisen
+- GitHub: https://github.com/SHRAVANBISEN
 
 ---
 
